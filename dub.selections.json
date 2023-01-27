@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"botan": "1.12.19",
+		"botan-math": "1.0.3",
+		"memutils": "1.0.4",
+		"openssl": "1.1.6+1.0.1g"
+	}
+}

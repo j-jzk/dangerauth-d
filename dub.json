@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"j-jzk"
+	],
+	"copyright": "Copyright © 2023, j-jzk",
+	"dependencies": {
+		"botan": "~>1.12.19"
+	},
+	"description": "",
+	"license": "proprietary",
+	"name": "dangerauth",
+	"libs": ["z"],
+	"dflags": ["-link-defaultlib-shared=false"]
+}
